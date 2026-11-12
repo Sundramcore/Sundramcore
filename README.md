@@ -12,9 +12,6 @@
   Exploring technology, building practical solutions, and learning through experimentation.
 </p>
 
-<p align="center">
-  Curiosity, Compiled.
-</p>
 
 ---
 
