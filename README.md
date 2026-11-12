@@ -62,7 +62,7 @@ I believe creativity and technical thinking complement each other.
 
 <p>
   <a href="https://github.com/Sundramcore">
-    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Sundramcore-161B22?style=flat-square&logo=github"/>
   </a>
 </p>
 
