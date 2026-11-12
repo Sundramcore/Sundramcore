@@ -1,58 +1,71 @@
 
-<h1 align="center">SUNDRAMCORE</h1>
+<h1 align="center">Sundramcore</h1>
 
 <h3 align="center">Curiosity, Compiled.</h3>
 
 <p align="center">
-  <i>Engineering ideas into reality, one experiment at a time.</i>
+  <b>Computer Science Undergraduate | Aspiring Software Developer</b>
+</p>
+
+<p align="center">
+  Exploring technology, building practical solutions, and learning through experimentation.
 </p>
 
 ---
 
-### `01` — THE DEVELOPER
+## About Me
 
-Hey, I'm **Sundram**, a Computer Science undergraduate at **BIT Mesra**.
+I'm **Sundram**, a Computer Science and Engineering undergraduate at **BIT Mesra**.
 
-I believe the best way to understand technology is to build with it, experiment with it, and question how it works.
+I'm interested in software development, problem-solving, and emerging technologies. I enjoy exploring how things work and translating ideas into practical projects.
 
-- 🎓 B.Tech CSE Undergraduate
-- 💻 Exploring Software Development
-- 🧠 Interested in AI/ML & Cybersecurity
-- ⚙️ Learning through projects and experimentation
-- ✍️ A little poetry beyond the terminal.
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Exploring software development and programming
+- 🧠 Interested in Artificial Intelligence & Machine Learning
+- 🔐 Exploring Cybersecurity
+- ⚙️ Building projects involving software and embedded systems
+- 🌱 Continuously learning and improving my technical skills
 
-### `02` — TECH STACK
+## Technical Interests
 
 <p>
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-161B22?style=flat-square&logo=espressif&logoColor=white"/>
 </p>
 
-### `03` — SELECTED WORK
+**Areas of Interest**
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Internet of Things (IoT)
+- Problem Solving
 
-**Smart Power Guard**
+## Projects
 
-An IoT-based electrical monitoring and protection system focused on energy tracking, overload alerts and smarter electricity management.
+### Smart Power Guard
+An IoT-based electrical monitoring and protection system designed to track energy consumption, monitor electrical parameters, and provide overload alerts.
 
-### `04` — BEYOND CODE
+**Focus:** ESP32 · PZEM-004T · OLED · IoT
 
-Technology is one way I express curiosity.
+## Beyond Technology
 
-I enjoy writing poetry, exploring ideas, collaborating with people and contributing to meaningful initiatives.
+Beyond programming, I enjoy creative writing, poetry, collaboration, and contributing to community initiatives.
 
-### `05` — CONNECT
+I believe creativity and technical thinking complement each other.
+
+## Connect
 
 <p>
   <a href="https://github.com/Sundramcore">
-    <img src="https://img.shields.io/badge/GitHub-Sundramcore-111111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>BUILD WITH CURIOSITY. LEARN WITH INTENT. CREATE WITH PURPOSE.</b>
+  <i>Build with curiosity. Learn with intent. Create with purpose.</i>
 </p>
