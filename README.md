@@ -4,7 +4,7 @@
 <h3 align="center">Curiosity, Compiled.</h3>
 
 <p align="center">
-  <b>Computer Science Undergraduate | Aspiring Software Developer</b>
+  <b>B.Tech CSE AI/ML Undergraduate | Aspiring Software Developer</b>
 </p>
 
 <p align="center">
