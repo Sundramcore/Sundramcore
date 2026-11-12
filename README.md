@@ -9,12 +9,11 @@
 </p>
 
 <p align="center">
-  <i>Curiosity, Compiled.</i>
+  Exploring technology, building practical solutions, and learning through experimentation.
 </p>
 
-
 <p align="center">
-  Exploring technology, building practical solutions, and learning through experimentation.
+  <i>Curiosity, Compiled.</i>
 </p>
 
 ---
