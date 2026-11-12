@@ -1,5 +1,5 @@
 
-<h1 align="center">Sundramcore</h1>
+<h1 align="center">SUNDRAMCORE</h1>
 
 <h3 align="center">Curiosity, Compiled.</h3>
 
