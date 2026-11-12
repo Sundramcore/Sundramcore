@@ -2,7 +2,7 @@
 
 <h1 align="center">SUNDRAMCORE</h1>
 
-<h3 align="center">B.Tech CSE (AI &amp; ML)</h3>
+<h3 align="center">B.Tech CSE (AI &amp; ML) Undergraduate</h3>
 
 <p align="center">
   <b>Understanding Today, Building Tomorrow.</b>
