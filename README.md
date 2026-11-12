@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <i>Curiosity, Compiled.</i>
+  Curiosity, Compiled.
 </p>
 
 ---
