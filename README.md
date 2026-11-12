@@ -70,6 +70,6 @@ I believe creativity and technical thinking complement each other.
 
 <p align="center">
 <b>
-  <i>Build with curiosity. Learn with intent. Create with purpose.</i>
+  Build with curiosity. Learn with intent. Create with purpose.
 </b> 
 </p>
