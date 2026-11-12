@@ -1,11 +1,17 @@
 
-<h1 align="center">Sundramcore</h1>
 
-<h3 align="center">Curiosity, Compiled.</h3>
+<h1 align="center">SUNDRAMCORE</h1>
+
+<h3 align="center">B.Tech CSE (AI &amp; ML)</h3>
 
 <p align="center">
-  <b>B.Tech CSE (AI & ML) | Understanding Today, Building Tomorrow.</b>
+  <b>Understanding Today, Building Tomorrow.</b>
 </p>
+
+<p align="center">
+  <i>Curiosity, Compiled.</i>
+</p>
+
 
 <p align="center">
   Exploring technology, building practical solutions, and learning through experimentation.
